@@ -2,7 +2,7 @@
 <package>
 	<metadata>
 		<id>mmk.defs.gapi.auth2</id>
-		<version>0.0.0</version>
+		<version>0.0.1</version>
 		<authors>MaulingMonkey</authors>
 		<owners>MaulingMonkey</owners>
 		<description>MaulingMonKey's typescript definitions for Google's Auth2 API</description>
